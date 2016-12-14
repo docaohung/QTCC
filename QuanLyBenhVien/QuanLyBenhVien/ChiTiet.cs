@@ -41,7 +41,15 @@ namespace QuanLyBenhVien
 
         private void abtnSua_Click(object sender, EventArgs e)
         {
-            
+            try
+            {
+                BenhVienDTO bv = new BenhVienDTO(txtMaYTe.Text, txtHoTen.Text, txtNamSinh.Text, txtGioiTinh.Text, txtDiaChi.Text, txtNgheNghiep.Text, txtSoDT.Text, txtChuanDoan.Text, txtTenThuoc.Text, txtLoiDan.Text, txtNgayTaiKham.Text);
+                if (new BenhVienBLO().Edit(bv))                   
+                ChiTiet_Load(sender, e);
+            }
+            catch (Exception)
+            {
+            }
         }
 
         int dong;

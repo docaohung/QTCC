@@ -10,14 +10,25 @@ c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBen
 c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Access.resources
 c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
 C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
-C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
-C:\Users\Black Men\Desktop\16.1A\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVienMinh\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
 C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
 C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
 C:\Users\Black Men\Desktop\16.1A\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb

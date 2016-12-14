@@ -23,9 +23,19 @@ namespace QuanLyBenhVien.BLL
             return result;
 
          }
-        
+        public bool Edit(BenhVienDTO bv)
+        {
+            if (bv.MaYTe.Equals("") || bv.HoTen.Equals("") || bv.NamSinh.Equals("") || bv.GioiTinh.Equals("") || bv.NgheNghiep.Equals("") || bv.DiaChi.Equals("") || bv.SoDT.Equals("") || bv.ChuanDoan.Equals("") || bv.TenThuoc.Equals("") || bv.LoiDan.Equals("") || bv.NgayTaiKham.Equals(""))
+                return false;
+            bool result = new BenhVienDAO().Edit(bv);
+            return result;
+
+        }
        
-        
+        public List<BenhVienDTO> SearchName(String name)
+        {
+            return new BenhVienDAO().SearchName(name);
+        }
 
     }
 }
