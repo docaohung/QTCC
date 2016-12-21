@@ -1,0 +1,33 @@
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Access.resources
+c:\users\dangtruc\documents\visual studio 2013\Projects\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+D:\QTCC_QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.TruyCap.resources
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.TruyCap.resources
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.BenhVien.resources
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\QTCC__QuanLyBenhVien\QTCC__QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
