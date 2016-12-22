@@ -1,0 +1,9 @@
+D:\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojResolveAssemblyReference.cache
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.ChiTiet.resources
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.Cache
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
