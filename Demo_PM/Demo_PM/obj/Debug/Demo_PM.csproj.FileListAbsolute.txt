@@ -1,0 +1,18 @@
+c:\users\caohùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\bin\Debug\Demo_PM.exe.config
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\bin\Debug\Demo_PM.exe
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\bin\Debug\Demo_PM.pdb
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.csprojResolveAssemblyReference.cache
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.Form1.resources
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.Properties.Resources.resources
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.csproj.GenerateResource.Cache
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.exe
+C:\Users\CaoHùng\documents\visual studio 2015\Projects\Demo_PM\Demo_PM\obj\Debug\Demo_PM.pdb
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Demo_PM\Demo_PM\Demo_PM\bin\Debug\Demo_PM.exe.config
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Demo_PM\Demo_PM\Demo_PM\obj\Debug\Demo_PM.exe
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Demo_PM\Demo_PM\Demo_PM\obj\Debug\Demo_PM.pdb
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Quan ly BV\Demo_PM\Demo_PM\Demo_PM\bin\Debug\Demo_PM.exe.config
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Quan ly BV\Demo_PM\Demo_PM\Demo_PM\obj\Debug\Demo_PM.exe
+E:\MON HOC HOC KY 16.1A\Quy trình và công cụ phát triển pm\Quan ly BV\Demo_PM\Demo_PM\Demo_PM\obj\Debug\Demo_PM.pdb
+C:\Users\CaoHùng\Desktop\Demo_PM\Demo_PM\bin\Debug\Demo_PM.exe.config
+C:\Users\CaoHùng\Desktop\Demo_PM\Demo_PM\obj\Debug\Demo_PM.exe
+C:\Users\CaoHùng\Desktop\Demo_PM\Demo_PM\obj\Debug\Demo_PM.pdb
